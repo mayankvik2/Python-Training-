@@ -1,2 +1,2 @@
-# Python-Training-
-Jupyter Notebooks for Python Training session
+# Python-Training
+Jupyter Notebooks and DataSets for Python Training session
